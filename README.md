@@ -3,7 +3,7 @@
 - yellow background and
 - black border 
 
-**Note:
+**Note:**
 
 1)Use rgb values for colors.
 yellow: rgb(255, 255, 0)
