@@ -6,7 +6,9 @@
 **Note:**
 
 1)Use rgb values for colors.
+
 yellow: rgb(255, 255, 0)
+
 black: rgb(0, 0, 0)
 
 2)Make proper usage of table related tags
