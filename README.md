@@ -13,4 +13,4 @@
 
 2)Make proper usage of table related tags
 
-![table_image](https://storage.googleapis.com/acciojob-open-file-collections/table-practise.png)
+![table_image](https://storage.googleapis.com/acciojob-open-file-collections/table_img2.png)
